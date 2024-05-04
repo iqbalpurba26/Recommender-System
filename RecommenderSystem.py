@@ -10,9 +10,6 @@ Original file is located at
 
 Pada bagian ini proses penginstallan library demoji dilakukan.
 """
-
-pip install demoji
-
 """Semua library yang dibutuhkan selama pelatihan model diimport"""
 
 import pandas as pd

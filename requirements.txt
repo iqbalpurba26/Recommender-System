@@ -1,0 +1,9 @@
+demoji
+pandas
+numpy
+zipfile
+scikit-learn
+tensorflow
+pathlib
+matplotlib
+seaborns
